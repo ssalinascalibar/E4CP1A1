@@ -1,0 +1,86 @@
+h3{
+	text-align: center;
+}
+
+h5{
+	text-align: center;
+
+}
+
+.sec1{
+	background-color: white;
+}
+
+.p-sec{
+	text-align: center;
+}
+
+.imagen2{
+	margin-top: 40px;
+}
+
+.sec-solicita{
+	background-color: #F9F9F9;
+	padding-top: 50px;
+	padding-bottom: 20px;
+	border-style: solid;
+	border-width: 2px;
+	border-color: #EAEAEA;
+	text-align: center;
+
+}
+
+
+
+
+
+.header{
+	color: white;
+}
+
+.boton-info{
+	background-color: #4CAD55;
+	border-style: none;
+	padding: 8px;
+	border-radius: 8px;
+	margin-top: 40px;
+	
+
+}
+
+.boton-comienza{
+	background-color: #2966A3;
+	border-style: none;
+	padding: 8px;
+	border-radius: 8px;
+	margin-top: 40px;
+
+}
+
+.boton-inscribete{
+	background-color: #2966A3;
+	border-style: none;
+	padding: 8px;
+	border-radius: 8px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	color: white;
+
+}
+
+.sec-3{
+	padding-top: 30px;
+}
+
+footer{
+	background-color: black;
+	min-height: 10vh;
+	color: gray;
+	padding-top: 20px;
+	padding-left: 80px;
+}
+
+.adaptar{
+	width: 100%;
+
+}
